@@ -1,0 +1,13 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ZPtTpvf3Leg
+[youtube] ZPtTpvf3Leg: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] ZPtTpvf3Leg: Downloading android vr player API JSON
+[info] ZPtTpvf3Leg: Downloading subtitles: en
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+[info] ZPtTpvf3Leg: Downloading 1 format(s): 18
+[info] Writing video subtitles to: sources/youtube-transcripts/ZPtTpvf3Leg.en.vtt
+[download] Destination: sources/youtube-transcripts/ZPtTpvf3Leg.en.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.67MiB/s (00:00:00)[download]    7.00KiB at    3.38MiB/s (00:00:00)[download]   15.00KiB at    3.52MiB/s (00:00:00)[download]   31.00KiB at    1.10MiB/s (00:00:00)[download]   63.00KiB at    1.76MiB/s (00:00:00)[download]  105.12KiB at    1.77MiB/s (00:00:00)[download] 100% of  105.12KiB in 00:00:00 at 341.74KiB/s
+[SubtitlesConvertor] Converting subtitles
+ERROR: Preprocessing: ffmpeg not found. Please install or provide the path using --ffmpeg-location
+ERROR: Preprocessing: ffmpeg not found. Please install or provide the path using --ffmpeg-location

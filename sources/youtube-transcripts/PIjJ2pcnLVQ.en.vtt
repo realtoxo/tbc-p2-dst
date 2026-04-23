@@ -1,0 +1,1368 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:05.570 --> 00:00:07.990 align:start position:0%
+ 
+[Applause]
+
+00:00:07.990 --> 00:00:08.000 align:start position:0%
+[Applause]
+ 
+
+00:00:08.000 --> 00:00:08.950 align:start position:0%
+[Applause]
+hey<00:00:08.240><c> everyone</c>
+
+00:00:08.950 --> 00:00:08.960 align:start position:0%
+hey everyone
+ 
+
+00:00:08.960 --> 00:00:11.030 align:start position:0%
+hey everyone
+blaise<00:00:09.360><c> here</c><00:00:09.599><c> with</c><00:00:09.760><c> my</c><00:00:10.000><c> new</c><00:00:10.320><c> and</c><00:00:10.480><c> up-to-date</c>
+
+00:00:11.030 --> 00:00:11.040 align:start position:0%
+blaise here with my new and up-to-date
+ 
+
+00:00:11.040 --> 00:00:13.270 align:start position:0%
+blaise here with my new and up-to-date
+seal<00:00:11.280><c> twisting</c><00:00:11.759><c> and</c><00:00:11.840><c> rotation</c><00:00:12.400><c> guide</c>
+
+00:00:13.270 --> 00:00:13.280 align:start position:0%
+seal twisting and rotation guide
+ 
+
+00:00:13.280 --> 00:00:15.350 align:start position:0%
+seal twisting and rotation guide
+in<00:00:13.440><c> this</c><00:00:13.679><c> video</c><00:00:14.000><c> i</c><00:00:14.160><c> will</c><00:00:14.400><c> explain</c><00:00:14.880><c> what</c><00:00:15.040><c> seal</c>
+
+00:00:15.350 --> 00:00:15.360 align:start position:0%
+in this video i will explain what seal
+ 
+
+00:00:15.360 --> 00:00:16.310 align:start position:0%
+in this video i will explain what seal
+twisting<00:00:15.759><c> is</c>
+
+00:00:16.310 --> 00:00:16.320 align:start position:0%
+twisting is
+ 
+
+00:00:16.320 --> 00:00:17.910 align:start position:0%
+twisting is
+how<00:00:16.480><c> it</c><00:00:16.560><c> will</c><00:00:16.800><c> be</c><00:00:16.960><c> implemented</c><00:00:17.440><c> in</c><00:00:17.520><c> the</c><00:00:17.680><c> raid</c>
+
+00:00:17.910 --> 00:00:17.920 align:start position:0%
+how it will be implemented in the raid
+ 
+
+00:00:17.920 --> 00:00:19.990 align:start position:0%
+how it will be implemented in the raid
+setting<00:00:18.720><c> and</c><00:00:18.960><c> other</c><00:00:19.279><c> various</c><00:00:19.680><c> things</c><00:00:19.920><c> that</c>
+
+00:00:19.990 --> 00:00:20.000 align:start position:0%
+setting and other various things that
+ 
+
+00:00:20.000 --> 00:00:21.830 align:start position:0%
+setting and other various things that
+you<00:00:20.160><c> can</c><00:00:20.240><c> do</c><00:00:20.400><c> with</c><00:00:20.640><c> seal</c><00:00:20.880><c> twisting</c>
+
+00:00:21.830 --> 00:00:21.840 align:start position:0%
+you can do with seal twisting
+ 
+
+00:00:21.840 --> 00:00:23.830 align:start position:0%
+you can do with seal twisting
+i<00:00:22.000><c> will</c><00:00:22.240><c> also</c><00:00:22.560><c> be</c><00:00:22.720><c> going</c><00:00:22.960><c> over</c><00:00:23.279><c> how</c><00:00:23.519><c> this</c><00:00:23.680><c> is</c>
+
+00:00:23.830 --> 00:00:23.840 align:start position:0%
+i will also be going over how this is
+ 
+
+00:00:23.840 --> 00:00:25.509 align:start position:0%
+i will also be going over how this is
+implemented<00:00:24.320><c> in</c><00:00:24.480><c> our</c><00:00:24.640><c> priority</c><00:00:25.199><c> base</c>
+
+00:00:25.509 --> 00:00:25.519 align:start position:0%
+implemented in our priority base
+ 
+
+00:00:25.519 --> 00:00:27.349 align:start position:0%
+implemented in our priority base
+rotation
+
+00:00:27.349 --> 00:00:27.359 align:start position:0%
+rotation
+ 
+
+00:00:27.359 --> 00:00:28.950 align:start position:0%
+rotation
+seal<00:00:27.680><c> twisting</c><00:00:28.160><c> is</c><00:00:28.240><c> the</c><00:00:28.400><c> ability</c><00:00:28.800><c> for</c>
+
+00:00:28.950 --> 00:00:28.960 align:start position:0%
+seal twisting is the ability for
+ 
+
+00:00:28.960 --> 00:00:31.830 align:start position:0%
+seal twisting is the ability for
+paladins<00:00:29.519><c> to</c><00:00:29.679><c> proc</c><00:00:30.160><c> two</c><00:00:30.480><c> seal</c><00:00:30.880><c> effects</c><00:00:31.279><c> on</c><00:00:31.519><c> one</c>
+
+00:00:31.830 --> 00:00:31.840 align:start position:0%
+paladins to proc two seal effects on one
+ 
+
+00:00:31.840 --> 00:00:34.549 align:start position:0%
+paladins to proc two seal effects on one
+melee<00:00:32.239><c> swing</c><00:00:33.600><c> deal</c><00:00:33.840><c> of</c><00:00:33.920><c> command</c><00:00:34.320><c> has</c><00:00:34.480><c> a</c>
+
+00:00:34.549 --> 00:00:34.559 align:start position:0%
+melee swing deal of command has a
+ 
+
+00:00:34.559 --> 00:00:37.110 align:start position:0%
+melee swing deal of command has a
+lingering<00:00:35.040><c> effect</c><00:00:35.440><c> of</c><00:00:35.600><c> 400</c><00:00:36.160><c> milliseconds</c>
+
+00:00:37.110 --> 00:00:37.120 align:start position:0%
+lingering effect of 400 milliseconds
+ 
+
+00:00:37.120 --> 00:00:39.670 align:start position:0%
+lingering effect of 400 milliseconds
+that<00:00:37.280><c> persists</c><00:00:38.239><c> after</c><00:00:38.559><c> you</c><00:00:38.800><c> activate</c><00:00:39.280><c> another</c>
+
+00:00:39.670 --> 00:00:39.680 align:start position:0%
+that persists after you activate another
+ 
+
+00:00:39.680 --> 00:00:40.549 align:start position:0%
+that persists after you activate another
+seal
+
+00:00:40.549 --> 00:00:40.559 align:start position:0%
+seal
+ 
+
+00:00:40.559 --> 00:00:42.869 align:start position:0%
+seal
+in<00:00:40.719><c> order</c><00:00:40.960><c> to</c><00:00:41.200><c> achieve</c><00:00:41.760><c> procking</c><00:00:42.320><c> two</c><00:00:42.640><c> seal</c>
+
+00:00:42.869 --> 00:00:42.879 align:start position:0%
+in order to achieve procking two seal
+ 
+
+00:00:42.879 --> 00:00:44.869 align:start position:0%
+in order to achieve procking two seal
+effects<00:00:43.440><c> on</c><00:00:43.600><c> one</c><00:00:43.920><c> weapon</c><00:00:44.320><c> swing</c>
+
+00:00:44.869 --> 00:00:44.879 align:start position:0%
+effects on one weapon swing
+ 
+
+00:00:44.879 --> 00:00:47.029 align:start position:0%
+effects on one weapon swing
+you<00:00:45.039><c> will</c><00:00:45.280><c> activate</c><00:00:45.760><c> a</c><00:00:45.920><c> seal</c><00:00:46.480><c> while</c><00:00:46.719><c> seal</c><00:00:46.960><c> of</c>
+
+00:00:47.029 --> 00:00:47.039 align:start position:0%
+you will activate a seal while seal of
+ 
+
+00:00:47.039 --> 00:00:49.110 align:start position:0%
+you will activate a seal while seal of
+command<00:00:47.520><c> is</c><00:00:47.680><c> already</c><00:00:48.079><c> active</c>
+
+00:00:49.110 --> 00:00:49.120 align:start position:0%
+command is already active
+ 
+
+00:00:49.120 --> 00:00:52.069 align:start position:0%
+command is already active
+you<00:00:49.440><c> cannot</c><00:00:50.320><c> twist</c><00:00:50.800><c> seal</c><00:00:51.039><c> of</c><00:00:51.199><c> blood</c><00:00:51.520><c> into</c><00:00:51.840><c> seal</c>
+
+00:00:52.069 --> 00:00:52.079 align:start position:0%
+you cannot twist seal of blood into seal
+ 
+
+00:00:52.079 --> 00:00:53.029 align:start position:0%
+you cannot twist seal of blood into seal
+of<00:00:52.160><c> command</c>
+
+00:00:53.029 --> 00:00:53.039 align:start position:0%
+of command
+ 
+
+00:00:53.039 --> 00:00:55.590 align:start position:0%
+of command
+you<00:00:53.199><c> can</c><00:00:53.440><c> twist</c><00:00:54.000><c> seal</c><00:00:54.320><c> of</c><00:00:54.480><c> command</c><00:00:55.039><c> into</c><00:00:55.360><c> other</c>
+
+00:00:55.590 --> 00:00:55.600 align:start position:0%
+you can twist seal of command into other
+ 
+
+00:00:55.600 --> 00:00:56.549 align:start position:0%
+you can twist seal of command into other
+seals
+
+00:00:56.549 --> 00:00:56.559 align:start position:0%
+seals
+ 
+
+00:00:56.559 --> 00:00:59.510 align:start position:0%
+seals
+but<00:00:56.719><c> the</c><00:00:56.879><c> most</c><00:00:57.199><c> common</c><00:00:57.600><c> form</c><00:00:57.920><c> in</c><00:00:58.079><c> pve</c><00:00:59.039><c> will</c><00:00:59.280><c> be</c>
+
+00:00:59.510 --> 00:00:59.520 align:start position:0%
+but the most common form in pve will be
+ 
+
+00:00:59.520 --> 00:01:00.389 align:start position:0%
+but the most common form in pve will be
+seal<00:00:59.760><c> of</c><00:00:59.840><c> command</c>
+
+00:01:00.389 --> 00:01:00.399 align:start position:0%
+seal of command
+ 
+
+00:01:00.399 --> 00:01:03.270 align:start position:0%
+seal of command
+and<00:01:00.640><c> seal</c><00:01:00.879><c> of</c><00:01:00.960><c> blood</c><00:01:02.320><c> twisting</c><00:01:02.879><c> seal</c><00:01:03.120><c> of</c>
+
+00:01:03.270 --> 00:01:03.280 align:start position:0%
+and seal of blood twisting seal of
+ 
+
+00:01:03.280 --> 00:01:03.830 align:start position:0%
+and seal of blood twisting seal of
+command
+
+00:01:03.830 --> 00:01:03.840 align:start position:0%
+command
+ 
+
+00:01:03.840 --> 00:01:06.230 align:start position:0%
+command
+into<00:01:04.159><c> seal</c><00:01:04.400><c> of</c><00:01:04.479><c> blood</c><00:01:04.879><c> effectively</c><00:01:05.840><c> will</c><00:01:06.000><c> give</c>
+
+00:01:06.230 --> 00:01:06.240 align:start position:0%
+into seal of blood effectively will give
+ 
+
+00:01:06.240 --> 00:01:07.990 align:start position:0%
+into seal of blood effectively will give
+you<00:01:06.400><c> one</c><00:01:06.640><c> seal</c><00:01:06.960><c> of</c><00:01:07.040><c> command</c><00:01:07.439><c> proc</c>
+
+00:01:07.990 --> 00:01:08.000 align:start position:0%
+you one seal of command proc
+ 
+
+00:01:08.000 --> 00:01:11.030 align:start position:0%
+you one seal of command proc
+and<00:01:08.240><c> two</c><00:01:08.560><c> seal</c><00:01:08.799><c> of</c><00:01:08.880><c> blood</c><00:01:09.200><c> procs</c><00:01:10.320><c> one</c><00:01:10.640><c> seal</c><00:01:10.880><c> of</c>
+
+00:01:11.030 --> 00:01:11.040 align:start position:0%
+and two seal of blood procs one seal of
+ 
+
+00:01:11.040 --> 00:01:13.109 align:start position:0%
+and two seal of blood procs one seal of
+blood<00:01:11.280><c> procking</c><00:01:11.760><c> off</c><00:01:11.920><c> of</c><00:01:12.000><c> the</c><00:01:12.080><c> weapon</c><00:01:12.479><c> attack</c>
+
+00:01:13.109 --> 00:01:13.119 align:start position:0%
+blood procking off of the weapon attack
+ 
+
+00:01:13.119 --> 00:01:14.950 align:start position:0%
+blood procking off of the weapon attack
+and<00:01:13.280><c> another</c><00:01:13.760><c> procking</c><00:01:14.159><c> off</c><00:01:14.400><c> of</c><00:01:14.479><c> the</c><00:01:14.640><c> seal</c><00:01:14.880><c> of</c>
+
+00:01:14.950 --> 00:01:14.960 align:start position:0%
+and another procking off of the seal of
+ 
+
+00:01:14.960 --> 00:01:16.710 align:start position:0%
+and another procking off of the seal of
+command<00:01:15.360><c> attack</c>
+
+00:01:16.710 --> 00:01:16.720 align:start position:0%
+command attack
+ 
+
+00:01:16.720 --> 00:01:19.030 align:start position:0%
+command attack
+make<00:01:16.960><c> sure</c><00:01:17.200><c> that</c><00:01:17.360><c> you</c><00:01:17.520><c> are</c><00:01:17.680><c> only</c><00:01:18.000><c> using</c><00:01:18.479><c> rank</c><00:01:18.799><c> 1</c>
+
+00:01:19.030 --> 00:01:19.040 align:start position:0%
+make sure that you are only using rank 1
+ 
+
+00:01:19.040 --> 00:01:20.230 align:start position:0%
+make sure that you are only using rank 1
+seal<00:01:19.280><c> of</c><00:01:19.439><c> command</c>
+
+00:01:20.230 --> 00:01:20.240 align:start position:0%
+seal of command
+ 
+
+00:01:20.240 --> 00:01:25.030 align:start position:0%
+seal of command
+as<00:01:20.560><c> max</c><00:01:20.960><c> rank</c><00:01:21.280><c> will</c><00:01:21.520><c> drain</c><00:01:21.840><c> your</c><00:01:22.000><c> mana</c>
+
+00:01:25.030 --> 00:01:25.040 align:start position:0%
+ 
+ 
+
+00:01:25.040 --> 00:01:26.789 align:start position:0%
+ 
+in<00:01:25.200><c> order</c><00:01:25.439><c> to</c><00:01:25.600><c> help</c><00:01:25.759><c> you</c><00:01:25.920><c> with</c><00:01:26.080><c> twisting</c><00:01:26.640><c> you</c>
+
+00:01:26.789 --> 00:01:26.799 align:start position:0%
+in order to help you with twisting you
+ 
+
+00:01:26.799 --> 00:01:29.749 align:start position:0%
+in order to help you with twisting you
+can<00:01:26.960><c> use</c><00:01:27.200><c> weak</c><00:01:27.439><c> auras</c><00:01:27.920><c> and</c><00:01:28.080><c> macros</c>
+
+00:01:29.749 --> 00:01:29.759 align:start position:0%
+can use weak auras and macros
+ 
+
+00:01:29.759 --> 00:01:32.069 align:start position:0%
+can use weak auras and macros
+you<00:01:29.920><c> need</c><00:01:30.079><c> to</c><00:01:30.240><c> utilize</c><00:01:30.880><c> a</c><00:01:31.040><c> swing</c><00:01:31.360><c> timer</c><00:01:31.840><c> at</c><00:01:31.920><c> the</c>
+
+00:01:32.069 --> 00:01:32.079 align:start position:0%
+you need to utilize a swing timer at the
+ 
+
+00:01:32.079 --> 00:01:34.069 align:start position:0%
+you need to utilize a swing timer at the
+bare<00:01:32.320><c> minimum</c><00:01:32.799><c> in</c><00:01:32.960><c> order</c><00:01:33.200><c> to</c><00:01:33.439><c> know</c><00:01:33.680><c> when</c><00:01:33.840><c> your</c>
+
+00:01:34.069 --> 00:01:34.079 align:start position:0%
+bare minimum in order to know when your
+ 
+
+00:01:34.079 --> 00:01:36.710 align:start position:0%
+bare minimum in order to know when your
+melee<00:01:34.479><c> attacks</c><00:01:34.960><c> are</c><00:01:35.119><c> about</c><00:01:35.439><c> to</c><00:01:35.680><c> land</c>
+
+00:01:36.710 --> 00:01:36.720 align:start position:0%
+melee attacks are about to land
+ 
+
+00:01:36.720 --> 00:01:39.109 align:start position:0%
+melee attacks are about to land
+one<00:01:37.040><c> weak</c><00:01:37.280><c> aura</c><00:01:37.600><c> i</c><00:01:37.759><c> recommend</c><00:01:38.240><c> is</c><00:01:38.479><c> gaffian's</c>
+
+00:01:39.109 --> 00:01:39.119 align:start position:0%
+one weak aura i recommend is gaffian's
+ 
+
+00:01:39.119 --> 00:01:41.030 align:start position:0%
+one weak aura i recommend is gaffian's
+seal<00:01:39.439><c> twisting</c><00:01:39.920><c> timer</c>
+
+00:01:41.030 --> 00:01:41.040 align:start position:0%
+seal twisting timer
+ 
+
+00:01:41.040 --> 00:01:44.550 align:start position:0%
+seal twisting timer
+it<00:01:41.280><c> includes</c><00:01:41.920><c> a</c><00:01:42.079><c> swing</c><00:01:42.479><c> timer</c><00:01:43.360><c> seal</c><00:01:43.680><c> indicator</c>
+
+00:01:44.550 --> 00:01:44.560 align:start position:0%
+it includes a swing timer seal indicator
+ 
+
+00:01:44.560 --> 00:01:47.190 align:start position:0%
+it includes a swing timer seal indicator
+as<00:01:44.720><c> well</c><00:01:44.960><c> as</c><00:01:45.200><c> important</c><00:01:45.600><c> buff</c><00:01:45.920><c> trackers</c><00:01:47.040><c> the</c>
+
+00:01:47.190 --> 00:01:47.200 align:start position:0%
+as well as important buff trackers the
+ 
+
+00:01:47.200 --> 00:01:49.270 align:start position:0%
+as well as important buff trackers the
+swing<00:01:47.520><c> timer</c><00:01:47.920><c> is</c><00:01:48.000><c> broken</c><00:01:48.320><c> down</c><00:01:48.640><c> into</c><00:01:48.880><c> sections</c>
+
+00:01:49.270 --> 00:01:49.280 align:start position:0%
+swing timer is broken down into sections
+ 
+
+00:01:49.280 --> 00:01:50.310 align:start position:0%
+swing timer is broken down into sections
+to<00:01:49.360><c> help</c><00:01:49.600><c> you</c><00:01:49.840><c> see</c>
+
+00:01:50.310 --> 00:01:50.320 align:start position:0%
+to help you see
+ 
+
+00:01:50.320 --> 00:01:52.550 align:start position:0%
+to help you see
+your<00:01:50.479><c> global</c><00:01:50.799><c> cooldowns</c><00:01:51.840><c> as</c><00:01:52.000><c> well</c><00:01:52.240><c> as</c><00:01:52.399><c> the</c>
+
+00:01:52.550 --> 00:01:52.560 align:start position:0%
+your global cooldowns as well as the
+ 
+
+00:01:52.560 --> 00:01:54.230 align:start position:0%
+your global cooldowns as well as the
+best<00:01:52.880><c> time</c><00:01:53.119><c> to</c><00:01:53.280><c> twist</c>
+
+00:01:54.230 --> 00:01:54.240 align:start position:0%
+best time to twist
+ 
+
+00:01:54.240 --> 00:01:56.149 align:start position:0%
+best time to twist
+the<00:01:54.399><c> last</c><00:01:54.799><c> white</c><00:01:55.040><c> bar</c><00:01:55.439><c> is</c><00:01:55.520><c> the</c><00:01:55.680><c> window</c><00:01:56.000><c> that</c>
+
+00:01:56.149 --> 00:01:56.159 align:start position:0%
+the last white bar is the window that
+ 
+
+00:01:56.159 --> 00:01:58.149 align:start position:0%
+the last white bar is the window that
+you<00:01:56.320><c> need</c><00:01:56.640><c> to</c><00:01:56.880><c> activate</c><00:01:57.360><c> your</c><00:01:57.680><c> seal</c>
+
+00:01:58.149 --> 00:01:58.159 align:start position:0%
+you need to activate your seal
+ 
+
+00:01:58.159 --> 00:02:00.950 align:start position:0%
+you need to activate your seal
+in<00:01:58.320><c> order</c><00:01:58.560><c> to</c><00:01:58.719><c> twist</c><00:01:59.680><c> the</c><00:01:59.840><c> red</c><00:02:00.159><c> line</c><00:02:00.479><c> prior</c><00:02:00.799><c> to</c>
+
+00:02:00.950 --> 00:02:00.960 align:start position:0%
+in order to twist the red line prior to
+ 
+
+00:02:00.960 --> 00:02:01.590 align:start position:0%
+in order to twist the red line prior to
+that
+
+00:02:01.590 --> 00:02:01.600 align:start position:0%
+that
+ 
+
+00:02:01.600 --> 00:02:03.590 align:start position:0%
+that
+is<00:02:01.680><c> the</c><00:02:01.840><c> last</c><00:02:02.240><c> possible</c><00:02:02.719><c> moment</c><00:02:03.040><c> that</c><00:02:03.200><c> you</c><00:02:03.360><c> can</c>
+
+00:02:03.590 --> 00:02:03.600 align:start position:0%
+is the last possible moment that you can
+ 
+
+00:02:03.600 --> 00:02:05.190 align:start position:0%
+is the last possible moment that you can
+activate<00:02:04.079><c> another</c><00:02:04.479><c> spell</c>
+
+00:02:05.190 --> 00:02:05.200 align:start position:0%
+activate another spell
+ 
+
+00:02:05.200 --> 00:02:07.749 align:start position:0%
+activate another spell
+or<00:02:05.759><c> reapply</c><00:02:06.479><c> seal</c><00:02:06.719><c> of</c><00:02:06.799><c> command</c><00:02:07.280><c> before</c><00:02:07.520><c> your</c>
+
+00:02:07.749 --> 00:02:07.759 align:start position:0%
+or reapply seal of command before your
+ 
+
+00:02:07.759 --> 00:02:09.510 align:start position:0%
+or reapply seal of command before your
+weapon<00:02:08.080><c> swing</c><00:02:08.479><c> lands</c>
+
+00:02:09.510 --> 00:02:09.520 align:start position:0%
+weapon swing lands
+ 
+
+00:02:09.520 --> 00:02:11.350 align:start position:0%
+weapon swing lands
+you<00:02:09.679><c> can</c><00:02:09.840><c> use</c><00:02:10.160><c> a</c><00:02:10.239><c> couple</c><00:02:10.479><c> variations</c><00:02:11.120><c> of</c><00:02:11.280><c> a</c>
+
+00:02:11.350 --> 00:02:11.360 align:start position:0%
+you can use a couple variations of a
+ 
+
+00:02:11.360 --> 00:02:13.350 align:start position:0%
+you can use a couple variations of a
+macro<00:02:11.840><c> to</c><00:02:12.000><c> help</c><00:02:12.239><c> with</c><00:02:12.400><c> twisting</c>
+
+00:02:13.350 --> 00:02:13.360 align:start position:0%
+macro to help with twisting
+ 
+
+00:02:13.360 --> 00:02:15.350 align:start position:0%
+macro to help with twisting
+the<00:02:13.520><c> most</c><00:02:13.840><c> common</c><00:02:14.239><c> form</c><00:02:14.560><c> will</c><00:02:14.720><c> be</c><00:02:14.879><c> a</c><00:02:15.040><c> start</c>
+
+00:02:15.350 --> 00:02:15.360 align:start position:0%
+the most common form will be a start
+ 
+
+00:02:15.360 --> 00:02:16.470 align:start position:0%
+the most common form will be a start
+attack<00:02:15.760><c> seal</c><00:02:16.000><c> of</c><00:02:16.080><c> blood</c>
+
+00:02:16.470 --> 00:02:16.480 align:start position:0%
+attack seal of blood
+ 
+
+00:02:16.480 --> 00:02:19.270 align:start position:0%
+attack seal of blood
+macro<00:02:17.760><c> this</c><00:02:17.920><c> allows</c><00:02:18.319><c> the</c><00:02:18.400><c> paladin</c><00:02:18.800><c> to</c><00:02:18.959><c> be</c><00:02:19.120><c> in</c>
+
+00:02:19.270 --> 00:02:19.280 align:start position:0%
+macro this allows the paladin to be in
+ 
+
+00:02:19.280 --> 00:02:20.869 align:start position:0%
+macro this allows the paladin to be in
+melee<00:02:19.599><c> range</c><00:02:19.920><c> of</c><00:02:20.080><c> the</c><00:02:20.160><c> target</c>
+
+00:02:20.869 --> 00:02:20.879 align:start position:0%
+melee range of the target
+ 
+
+00:02:20.879 --> 00:02:22.790 align:start position:0%
+melee range of the target
+with<00:02:21.120><c> seal</c><00:02:21.360><c> of</c><00:02:21.440><c> command</c><00:02:21.840><c> buffed</c><00:02:22.400><c> and</c><00:02:22.560><c> then</c>
+
+00:02:22.790 --> 00:02:22.800 align:start position:0%
+with seal of command buffed and then
+ 
+
+00:02:22.800 --> 00:02:24.070 align:start position:0%
+with seal of command buffed and then
+swapped<00:02:23.120><c> to</c><00:02:23.280><c> seal</c><00:02:23.520><c> a</c><00:02:23.599><c> blood</c>
+
+00:02:24.070 --> 00:02:24.080 align:start position:0%
+swapped to seal a blood
+ 
+
+00:02:24.080 --> 00:02:26.949 align:start position:0%
+swapped to seal a blood
+and<00:02:24.239><c> begin</c><00:02:24.640><c> their</c><00:02:24.879><c> attack</c><00:02:26.239><c> this</c><00:02:26.400><c> can</c><00:02:26.640><c> result</c>
+
+00:02:26.949 --> 00:02:26.959 align:start position:0%
+and begin their attack this can result
+ 
+
+00:02:26.959 --> 00:02:29.030 align:start position:0%
+and begin their attack this can result
+in<00:02:27.120><c> an</c><00:02:27.280><c> almost</c><00:02:27.599><c> guaranteed</c><00:02:28.319><c> twist</c>
+
+00:02:29.030 --> 00:02:29.040 align:start position:0%
+in an almost guaranteed twist
+ 
+
+00:02:29.040 --> 00:02:31.430 align:start position:0%
+in an almost guaranteed twist
+depending<00:02:29.520><c> on</c><00:02:29.760><c> if</c><00:02:29.920><c> seal</c><00:02:30.239><c> of</c><00:02:30.319><c> command</c><00:02:30.720><c> procs</c><00:02:31.280><c> or</c>
+
+00:02:31.430 --> 00:02:31.440 align:start position:0%
+depending on if seal of command procs or
+ 
+
+00:02:31.440 --> 00:02:32.790 align:start position:0%
+depending on if seal of command procs or
+does<00:02:31.680><c> not</c>
+
+00:02:32.790 --> 00:02:32.800 align:start position:0%
+does not
+ 
+
+00:02:32.800 --> 00:02:35.110 align:start position:0%
+does not
+you<00:02:32.959><c> can</c><00:02:33.120><c> use</c><00:02:33.280><c> this</c><00:02:33.519><c> macro</c><00:02:33.920><c> on</c><00:02:34.080><c> its</c><00:02:34.319><c> own</c><00:02:34.800><c> or</c><00:02:35.040><c> you</c>
+
+00:02:35.110 --> 00:02:35.120 align:start position:0%
+you can use this macro on its own or you
+ 
+
+00:02:35.120 --> 00:02:37.110 align:start position:0%
+you can use this macro on its own or you
+can<00:02:35.360><c> use</c><00:02:35.599><c> it</c><00:02:35.680><c> with</c><00:02:35.920><c> avenging</c><00:02:36.480><c> wrath</c><00:02:36.800><c> and</c><00:02:36.879><c> your</c>
+
+00:02:37.110 --> 00:02:37.120 align:start position:0%
+can use it with avenging wrath and your
+ 
+
+00:02:37.120 --> 00:02:42.790 align:start position:0%
+can use it with avenging wrath and your
+on<00:02:37.360><c> use</c><00:02:37.680><c> trinket</c>
+
+00:02:42.790 --> 00:02:42.800 align:start position:0%
+ 
+ 
+
+00:02:42.800 --> 00:02:44.869 align:start position:0%
+ 
+stop<00:02:43.200><c> attack</c><00:02:43.599><c> can</c><00:02:43.760><c> be</c><00:02:43.920><c> used</c><00:02:44.239><c> if</c><00:02:44.400><c> you</c><00:02:44.480><c> need</c><00:02:44.720><c> to</c>
+
+00:02:44.869 --> 00:02:44.879 align:start position:0%
+stop attack can be used if you need to
+ 
+
+00:02:44.879 --> 00:02:46.710 align:start position:0%
+stop attack can be used if you need to
+stop<00:02:45.200><c> your</c><00:02:45.440><c> attack</c><00:02:45.840><c> in</c><00:02:46.000><c> order</c><00:02:46.239><c> to</c><00:02:46.480><c> set</c>
+
+00:02:46.710 --> 00:02:46.720 align:start position:0%
+stop your attack in order to set
+ 
+
+00:02:46.720 --> 00:02:47.190 align:start position:0%
+stop your attack in order to set
+yourself
+
+00:02:47.190 --> 00:02:47.200 align:start position:0%
+yourself
+ 
+
+00:02:47.200 --> 00:02:50.470 align:start position:0%
+yourself
+up<00:02:47.440><c> for</c><00:02:47.680><c> a</c><00:02:47.840><c> start</c><00:02:48.080><c> attack</c><00:02:48.560><c> macro</c><00:02:49.519><c> however</c>
+
+00:02:50.470 --> 00:02:50.480 align:start position:0%
+up for a start attack macro however
+ 
+
+00:02:50.480 --> 00:02:52.710 align:start position:0%
+up for a start attack macro however
+this<00:02:50.720><c> is</c><00:02:50.879><c> not</c><00:02:51.120><c> recommended</c><00:02:51.680><c> in</c><00:02:51.840><c> melee</c><00:02:52.160><c> range</c>
+
+00:02:52.710 --> 00:02:52.720 align:start position:0%
+this is not recommended in melee range
+ 
+
+00:02:52.720 --> 00:02:54.229 align:start position:0%
+this is not recommended in melee range
+and<00:02:52.959><c> should</c><00:02:53.120><c> be</c><00:02:53.280><c> used</c><00:02:53.519><c> when</c><00:02:53.680><c> running</c><00:02:54.000><c> out</c><00:02:54.160><c> of</c>
+
+00:02:54.229 --> 00:02:54.239 align:start position:0%
+and should be used when running out of
+ 
+
+00:02:54.239 --> 00:02:56.390 align:start position:0%
+and should be used when running out of
+melee<00:02:54.640><c> unfriendly</c><00:02:55.200><c> mechanics</c><00:02:55.760><c> or</c><00:02:56.000><c> changing</c>
+
+00:02:56.390 --> 00:02:56.400 align:start position:0%
+melee unfriendly mechanics or changing
+ 
+
+00:02:56.400 --> 00:02:59.270 align:start position:0%
+melee unfriendly mechanics or changing
+targets
+
+00:02:59.270 --> 00:02:59.280 align:start position:0%
+ 
+ 
+
+00:02:59.280 --> 00:03:01.190 align:start position:0%
+ 
+twisting<00:02:59.760><c> will</c><00:02:59.920><c> be</c><00:03:00.080><c> a</c><00:03:00.239><c> large</c><00:03:00.560><c> portion</c><00:03:00.959><c> of</c><00:03:01.040><c> our</c>
+
+00:03:01.190 --> 00:03:01.200 align:start position:0%
+twisting will be a large portion of our
+ 
+
+00:03:01.200 --> 00:03:03.670 align:start position:0%
+twisting will be a large portion of our
+rotation<00:03:01.760><c> when</c><00:03:01.920><c> the</c><00:03:02.000><c> paladin</c><00:03:02.560><c> can</c><00:03:02.720><c> master</c><00:03:03.200><c> it</c>
+
+00:03:03.670 --> 00:03:03.680 align:start position:0%
+rotation when the paladin can master it
+ 
+
+00:03:03.680 --> 00:03:05.830 align:start position:0%
+rotation when the paladin can master it
+in<00:03:03.840><c> a</c><00:03:03.920><c> raid</c><00:03:04.239><c> setting</c><00:03:04.720><c> you</c><00:03:04.879><c> will</c><00:03:05.120><c> follow</c><00:03:05.519><c> these</c>
+
+00:03:05.830 --> 00:03:05.840 align:start position:0%
+in a raid setting you will follow these
+ 
+
+00:03:05.840 --> 00:03:07.430 align:start position:0%
+in a raid setting you will follow these
+priorities
+
+00:03:07.430 --> 00:03:07.440 align:start position:0%
+priorities
+ 
+
+00:03:07.440 --> 00:03:09.110 align:start position:0%
+priorities
+make<00:03:07.599><c> sure</c><00:03:07.920><c> improved</c><00:03:08.480><c> judgment</c><00:03:08.879><c> of</c><00:03:08.959><c> the</c>
+
+00:03:09.110 --> 00:03:09.120 align:start position:0%
+make sure improved judgment of the
+ 
+
+00:03:09.120 --> 00:03:11.190 align:start position:0%
+make sure improved judgment of the
+crusader<00:03:09.599><c> is</c><00:03:09.760><c> on</c><00:03:09.840><c> the</c><00:03:10.000><c> target</c>
+
+00:03:11.190 --> 00:03:11.200 align:start position:0%
+crusader is on the target
+ 
+
+00:03:11.200 --> 00:03:13.030 align:start position:0%
+crusader is on the target
+you<00:03:11.360><c> bring</c><00:03:11.760><c> three</c><00:03:12.000><c> percent</c><00:03:12.400><c> crit</c><00:03:12.720><c> to</c><00:03:12.879><c> the</c>
+
+00:03:13.030 --> 00:03:13.040 align:start position:0%
+you bring three percent crit to the
+ 
+
+00:03:13.040 --> 00:03:14.710 align:start position:0%
+you bring three percent crit to the
+current<00:03:13.360><c> target</c><00:03:13.840><c> in</c><00:03:13.920><c> the</c><00:03:14.080><c> raid</c>
+
+00:03:14.710 --> 00:03:14.720 align:start position:0%
+current target in the raid
+ 
+
+00:03:14.720 --> 00:03:17.509 align:start position:0%
+current target in the raid
+so<00:03:14.959><c> make</c><00:03:15.120><c> sure</c><00:03:15.280><c> that</c><00:03:15.440><c> it</c><00:03:15.680><c> is</c><00:03:15.840><c> up</c><00:03:16.000><c> at</c><00:03:16.080><c> all</c><00:03:16.239><c> times</c>
+
+00:03:17.509 --> 00:03:17.519 align:start position:0%
+so make sure that it is up at all times
+ 
+
+00:03:17.519 --> 00:03:18.149 align:start position:0%
+so make sure that it is up at all times
+twist
+
+00:03:18.149 --> 00:03:18.159 align:start position:0%
+twist
+ 
+
+00:03:18.159 --> 00:03:20.229 align:start position:0%
+twist
+seal<00:03:18.400><c> of</c><00:03:18.480><c> command</c><00:03:19.040><c> into</c><00:03:19.280><c> seal</c><00:03:19.519><c> of</c><00:03:19.680><c> blood</c><00:03:20.000><c> on</c>
+
+00:03:20.229 --> 00:03:20.239 align:start position:0%
+seal of command into seal of blood on
+ 
+
+00:03:20.239 --> 00:03:21.589 align:start position:0%
+seal of command into seal of blood on
+auto<00:03:20.560><c> attack</c>
+
+00:03:21.589 --> 00:03:21.599 align:start position:0%
+auto attack
+ 
+
+00:03:21.599 --> 00:03:23.430 align:start position:0%
+auto attack
+make<00:03:21.840><c> sure</c><00:03:22.080><c> you</c><00:03:22.319><c> swap</c><00:03:22.720><c> back</c><00:03:22.959><c> to</c><00:03:23.120><c> seal</c><00:03:23.360><c> of</c>
+
+00:03:23.430 --> 00:03:23.440 align:start position:0%
+make sure you swap back to seal of
+ 
+
+00:03:23.440 --> 00:03:24.710 align:start position:0%
+make sure you swap back to seal of
+command<00:03:24.000><c> if</c><00:03:24.159><c> you</c><00:03:24.319><c> are</c><00:03:24.480><c> in</c>
+
+00:03:24.710 --> 00:03:24.720 align:start position:0%
+command if you are in
+ 
+
+00:03:24.720 --> 00:03:28.550 align:start position:0%
+command if you are in
+seal<00:03:25.040><c> of</c><00:03:25.120><c> blood</c><00:03:25.519><c> prior</c><00:03:25.920><c> to</c><00:03:26.080><c> your</c><00:03:26.319><c> auto</c><00:03:26.640><c> attack</c>
+
+00:03:28.550 --> 00:03:28.560 align:start position:0%
+seal of blood prior to your auto attack
+ 
+
+00:03:28.560 --> 00:03:31.750 align:start position:0%
+seal of blood prior to your auto attack
+crusaders<00:03:29.200><c> strike</c><00:03:29.599><c> on</c><00:03:29.840><c> cooldown</c><00:03:31.280><c> while</c><00:03:31.519><c> it</c><00:03:31.680><c> is</c>
+
+00:03:31.750 --> 00:03:31.760 align:start position:0%
+crusaders strike on cooldown while it is
+ 
+
+00:03:31.760 --> 00:03:33.670 align:start position:0%
+crusaders strike on cooldown while it is
+preferred<00:03:32.239><c> to</c><00:03:32.400><c> press</c><00:03:32.720><c> a</c><00:03:32.799><c> crusader</c><00:03:33.280><c> strike</c><00:03:33.599><c> on</c>
+
+00:03:33.670 --> 00:03:33.680 align:start position:0%
+preferred to press a crusader strike on
+ 
+
+00:03:33.680 --> 00:03:34.470 align:start position:0%
+preferred to press a crusader strike on
+the<00:03:33.760><c> cooldown</c>
+
+00:03:34.470 --> 00:03:34.480 align:start position:0%
+the cooldown
+ 
+
+00:03:34.480 --> 00:03:36.949 align:start position:0%
+the cooldown
+it<00:03:34.640><c> can</c><00:03:34.799><c> be</c><00:03:35.040><c> delayed</c><00:03:35.599><c> up</c><00:03:35.680><c> to</c><00:03:35.920><c> 3</c><00:03:36.239><c> seconds</c><00:03:36.799><c> for</c>
+
+00:03:36.949 --> 00:03:36.959 align:start position:0%
+it can be delayed up to 3 seconds for
+ 
+
+00:03:36.959 --> 00:03:38.390 align:start position:0%
+it can be delayed up to 3 seconds for
+the<00:03:37.040><c> twist</c>
+
+00:03:38.390 --> 00:03:38.400 align:start position:0%
+the twist
+ 
+
+00:03:38.400 --> 00:03:40.949 align:start position:0%
+the twist
+judgment<00:03:38.959><c> of</c><00:03:39.120><c> blood</c><00:03:39.599><c> only</c><00:03:40.159><c> after</c><00:03:40.400><c> your</c><00:03:40.640><c> auto</c>
+
+00:03:40.949 --> 00:03:40.959 align:start position:0%
+judgment of blood only after your auto
+ 
+
+00:03:40.959 --> 00:03:42.149 align:start position:0%
+judgment of blood only after your auto
+attack
+
+00:03:42.149 --> 00:03:42.159 align:start position:0%
+attack
+ 
+
+00:03:42.159 --> 00:03:44.229 align:start position:0%
+attack
+make<00:03:42.319><c> sure</c><00:03:42.480><c> that</c><00:03:42.640><c> you</c><00:03:42.799><c> apply</c><00:03:43.200><c> seal</c><00:03:43.440><c> of</c><00:03:43.599><c> command</c>
+
+00:03:44.229 --> 00:03:44.239 align:start position:0%
+make sure that you apply seal of command
+ 
+
+00:03:44.239 --> 00:03:45.430 align:start position:0%
+make sure that you apply seal of command
+after<00:03:44.640><c> judging</c>
+
+00:03:45.430 --> 00:03:45.440 align:start position:0%
+after judging
+ 
+
+00:03:45.440 --> 00:03:47.190 align:start position:0%
+after judging
+so<00:03:45.599><c> that</c><00:03:45.680><c> you</c><00:03:45.840><c> can</c><00:03:45.920><c> get</c><00:03:46.159><c> ready</c><00:03:46.400><c> for</c><00:03:46.560><c> your</c><00:03:46.799><c> next</c>
+
+00:03:47.190 --> 00:03:47.200 align:start position:0%
+so that you can get ready for your next
+ 
+
+00:03:47.200 --> 00:03:49.270 align:start position:0%
+so that you can get ready for your next
+twist
+
+00:03:49.270 --> 00:03:49.280 align:start position:0%
+twist
+ 
+
+00:03:49.280 --> 00:03:51.589 align:start position:0%
+twist
+exorcism<00:03:50.080><c> if</c><00:03:50.159><c> the</c><00:03:50.319><c> target</c><00:03:50.720><c> is</c><00:03:50.799><c> undead</c><00:03:51.360><c> or</c>
+
+00:03:51.589 --> 00:03:51.599 align:start position:0%
+exorcism if the target is undead or
+ 
+
+00:03:51.599 --> 00:03:53.030 align:start position:0%
+exorcism if the target is undead or
+demon
+
+00:03:53.030 --> 00:03:53.040 align:start position:0%
+demon
+ 
+
+00:03:53.040 --> 00:03:55.030 align:start position:0%
+demon
+consecrate<00:03:53.680><c> depending</c><00:03:54.159><c> on</c><00:03:54.319><c> your</c><00:03:54.480><c> current</c><00:03:54.879><c> and</c>
+
+00:03:55.030 --> 00:03:55.040 align:start position:0%
+consecrate depending on your current and
+ 
+
+00:03:55.040 --> 00:03:56.550 align:start position:0%
+consecrate depending on your current and
+future<00:03:55.360><c> mana</c><00:03:55.680><c> pool</c>
+
+00:03:56.550 --> 00:03:56.560 align:start position:0%
+future mana pool
+ 
+
+00:03:56.560 --> 00:03:59.990 align:start position:0%
+future mana pool
+you<00:03:56.720><c> can</c><00:03:56.879><c> use</c><00:03:57.120><c> ranks</c><00:03:57.519><c> 1</c><00:03:58.159><c> 4</c><00:03:58.480><c> and</c><00:03:58.720><c> 6</c><00:03:59.360><c> depending</c><00:03:59.840><c> on</c>
+
+00:03:59.990 --> 00:04:00.000 align:start position:0%
+you can use ranks 1 4 and 6 depending on
+ 
+
+00:04:00.000 --> 00:04:02.070 align:start position:0%
+you can use ranks 1 4 and 6 depending on
+your<00:04:00.159><c> current</c><00:04:00.560><c> mana</c><00:04:00.879><c> usage</c>
+
+00:04:02.070 --> 00:04:02.080 align:start position:0%
+your current mana usage
+ 
+
+00:04:02.080 --> 00:04:04.149 align:start position:0%
+your current mana usage
+if<00:04:02.239><c> there</c><00:04:02.480><c> are</c><00:04:02.640><c> multiple</c><00:04:03.120><c> targets</c><00:04:03.680><c> consider</c>
+
+00:04:04.149 --> 00:04:04.159 align:start position:0%
+if there are multiple targets consider
+ 
+
+00:04:04.159 --> 00:04:05.270 align:start position:0%
+if there are multiple targets consider
+using<00:04:04.480><c> this</c><00:04:04.879><c> over</c>
+
+00:04:05.270 --> 00:04:05.280 align:start position:0%
+using this over
+ 
+
+00:04:05.280 --> 00:04:10.070 align:start position:0%
+using this over
+exorcism
+
+00:04:10.070 --> 00:04:10.080 align:start position:0%
+ 
+ 
+
+00:04:10.080 --> 00:04:12.070 align:start position:0%
+ 
+here<00:04:10.400><c> i</c><00:04:10.480><c> can</c><00:04:10.720><c> show</c><00:04:10.879><c> you</c><00:04:11.120><c> roughly</c><00:04:11.760><c> what</c><00:04:11.920><c> the</c>
+
+00:04:12.070 --> 00:04:12.080 align:start position:0%
+here i can show you roughly what the
+ 
+
+00:04:12.080 --> 00:04:13.509 align:start position:0%
+here i can show you roughly what the
+priority<00:04:12.560><c> base</c><00:04:12.879><c> rotation</c>
+
+00:04:13.509 --> 00:04:13.519 align:start position:0%
+priority base rotation
+ 
+
+00:04:13.519 --> 00:04:15.509 align:start position:0%
+priority base rotation
+should<00:04:13.680><c> look</c><00:04:14.000><c> like</c><00:04:14.400><c> outside</c><00:04:14.879><c> of</c><00:04:14.959><c> blood</c><00:04:15.200><c> lust</c>
+
+00:04:15.509 --> 00:04:15.519 align:start position:0%
+should look like outside of blood lust
+ 
+
+00:04:15.519 --> 00:04:19.189 align:start position:0%
+should look like outside of blood lust
+or<00:04:15.599><c> heroism</c>
+
+00:04:19.189 --> 00:04:19.199 align:start position:0%
+ 
+ 
+
+00:04:19.199 --> 00:04:21.749 align:start position:0%
+ 
+notice<00:04:20.000><c> i</c><00:04:20.160><c> give</c><00:04:20.320><c> a</c><00:04:20.400><c> couple</c><00:04:20.799><c> seconds</c><00:04:21.199><c> in</c><00:04:21.359><c> melee</c>
+
+00:04:21.749 --> 00:04:21.759 align:start position:0%
+notice i give a couple seconds in melee
+ 
+
+00:04:21.759 --> 00:04:23.830 align:start position:0%
+notice i give a couple seconds in melee
+range<00:04:22.000><c> to</c><00:04:22.160><c> give</c><00:04:22.400><c> my</c><00:04:22.720><c> tanks</c><00:04:23.120><c> a</c><00:04:23.199><c> second</c><00:04:23.520><c> to</c><00:04:23.680><c> get</c>
+
+00:04:23.830 --> 00:04:23.840 align:start position:0%
+range to give my tanks a second to get
+ 
+
+00:04:23.840 --> 00:04:24.870 align:start position:0%
+range to give my tanks a second to get
+some<00:04:24.000><c> threat</c>
+
+00:04:24.870 --> 00:04:24.880 align:start position:0%
+some threat
+ 
+
+00:04:24.880 --> 00:04:26.710 align:start position:0%
+some threat
+this<00:04:25.120><c> is</c><00:04:25.280><c> because</c><00:04:25.600><c> the</c><00:04:25.759><c> seal</c><00:04:26.000><c> of</c><00:04:26.160><c> blood</c><00:04:26.479><c> start</c>
+
+00:04:26.710 --> 00:04:26.720 align:start position:0%
+this is because the seal of blood start
+ 
+
+00:04:26.720 --> 00:04:28.070 align:start position:0%
+this is because the seal of blood start
+attack<00:04:27.120><c> macro</c><00:04:27.440><c> can</c><00:04:27.600><c> produce</c>
+
+00:04:28.070 --> 00:04:28.080 align:start position:0%
+attack macro can produce
+ 
+
+00:04:28.080 --> 00:04:30.710 align:start position:0%
+attack macro can produce
+a<00:04:28.240><c> lot</c><00:04:28.400><c> of</c><00:04:28.560><c> threat</c><00:04:29.280><c> but</c><00:04:29.520><c> also</c><00:04:29.919><c> can</c><00:04:30.080><c> apply</c><00:04:30.479><c> three</c>
+
+00:04:30.710 --> 00:04:30.720 align:start position:0%
+a lot of threat but also can apply three
+ 
+
+00:04:30.720 --> 00:04:33.430 align:start position:0%
+a lot of threat but also can apply three
+stacks<00:04:31.120><c> of</c><00:04:31.199><c> vengeance</c><00:04:31.759><c> in</c><00:04:31.919><c> one</c><00:04:32.240><c> swing</c>
+
+00:04:33.430 --> 00:04:33.440 align:start position:0%
+stacks of vengeance in one swing
+ 
+
+00:04:33.440 --> 00:04:35.430 align:start position:0%
+stacks of vengeance in one swing
+generally<00:04:34.160><c> you</c><00:04:34.320><c> will</c><00:04:34.479><c> be</c><00:04:34.639><c> seal</c><00:04:34.880><c> twisting</c>
+
+00:04:35.430 --> 00:04:35.440 align:start position:0%
+generally you will be seal twisting
+ 
+
+00:04:35.440 --> 00:04:37.030 align:start position:0%
+generally you will be seal twisting
+every<00:04:35.759><c> other</c><00:04:36.080><c> auto</c><00:04:36.400><c> attack</c>
+
+00:04:37.030 --> 00:04:37.040 align:start position:0%
+every other auto attack
+ 
+
+00:04:37.040 --> 00:04:39.670 align:start position:0%
+every other auto attack
+outside<00:04:37.520><c> of</c><00:04:37.600><c> bloodlust</c><00:04:38.160><c> or</c><00:04:38.320><c> heroism</c><00:04:39.440><c> the</c>
+
+00:04:39.670 --> 00:04:39.680 align:start position:0%
+outside of bloodlust or heroism the
+ 
+
+00:04:39.680 --> 00:04:41.030 align:start position:0%
+outside of bloodlust or heroism the
+times<00:04:40.000><c> that</c><00:04:40.080><c> you</c><00:04:40.160><c> will</c><00:04:40.320><c> be</c><00:04:40.400><c> weaving</c><00:04:40.800><c> in</c><00:04:40.960><c> a</c>
+
+00:04:41.030 --> 00:04:41.040 align:start position:0%
+times that you will be weaving in a
+ 
+
+00:04:41.040 --> 00:04:42.950 align:start position:0%
+times that you will be weaving in a
+consecrate<00:04:41.759><c> or</c><00:04:41.919><c> an</c><00:04:42.080><c> exorcism</c>
+
+00:04:42.950 --> 00:04:42.960 align:start position:0%
+consecrate or an exorcism
+ 
+
+00:04:42.960 --> 00:04:44.469 align:start position:0%
+consecrate or an exorcism
+is<00:04:43.120><c> when</c><00:04:43.280><c> you</c><00:04:43.440><c> are</c><00:04:43.600><c> currently</c><00:04:44.000><c> buffed</c><00:04:44.320><c> with</c>
+
+00:04:44.469 --> 00:04:44.479 align:start position:0%
+is when you are currently buffed with
+ 
+
+00:04:44.479 --> 00:04:54.830 align:start position:0%
+is when you are currently buffed with
+seal<00:04:44.720><c> of</c><00:04:44.800><c> blood</c><00:04:45.360><c> and</c><00:04:45.520><c> you</c><00:04:45.680><c> are</c><00:04:45.919><c> landing</c><00:04:46.240><c> your</c>
+
+00:04:54.830 --> 00:04:54.840 align:start position:0%
+ 
+ 
+
+00:04:54.840 --> 00:04:56.870 align:start position:0%
+ 
+attack
+
+00:04:56.870 --> 00:04:56.880 align:start position:0%
+attack
+ 
+
+00:04:56.880 --> 00:04:59.030 align:start position:0%
+attack
+during<00:04:57.199><c> bloodlust</c><00:04:57.759><c> or</c><00:04:57.840><c> heroism</c><00:04:58.639><c> you</c><00:04:58.800><c> will</c><00:04:58.880><c> be</c>
+
+00:04:59.030 --> 00:04:59.040 align:start position:0%
+during bloodlust or heroism you will be
+ 
+
+00:04:59.040 --> 00:05:00.710 align:start position:0%
+during bloodlust or heroism you will be
+twisting<00:04:59.520><c> a</c><00:04:59.600><c> little</c><00:04:59.840><c> more</c>
+
+00:05:00.710 --> 00:05:00.720 align:start position:0%
+twisting a little more
+ 
+
+00:05:00.720 --> 00:05:02.469 align:start position:0%
+twisting a little more
+there<00:05:00.960><c> are</c><00:05:01.120><c> times</c><00:05:01.440><c> when</c><00:05:01.600><c> you</c><00:05:01.759><c> will</c><00:05:01.919><c> twist</c><00:05:02.240><c> on</c>
+
+00:05:02.469 --> 00:05:02.479 align:start position:0%
+there are times when you will twist on
+ 
+
+00:05:02.479 --> 00:05:04.310 align:start position:0%
+there are times when you will twist on
+back<00:05:02.720><c> to</c><00:05:02.880><c> back</c><00:05:03.199><c> auto</c><00:05:03.520><c> attacks</c>
+
+00:05:04.310 --> 00:05:04.320 align:start position:0%
+back to back auto attacks
+ 
+
+00:05:04.320 --> 00:05:05.749 align:start position:0%
+back to back auto attacks
+because<00:05:04.560><c> your</c><00:05:04.720><c> crusader</c><00:05:05.199><c> strike</c><00:05:05.520><c> is</c><00:05:05.600><c> on</c>
+
+00:05:05.749 --> 00:05:05.759 align:start position:0%
+because your crusader strike is on
+ 
+
+00:05:05.759 --> 00:05:07.830 align:start position:0%
+because your crusader strike is on
+cooldown<00:05:06.479><c> and</c><00:05:06.639><c> you</c><00:05:06.800><c> will</c><00:05:06.880><c> have</c><00:05:07.120><c> enough</c><00:05:07.520><c> time</c>
+
+00:05:07.830 --> 00:05:07.840 align:start position:0%
+cooldown and you will have enough time
+ 
+
+00:05:07.840 --> 00:05:21.350 align:start position:0%
+cooldown and you will have enough time
+to<00:05:08.000><c> squeeze</c><00:05:08.320><c> in</c><00:05:08.560><c> two</c><00:05:08.840><c> twists</c>
+
+00:05:21.350 --> 00:05:21.360 align:start position:0%
+ 
+ 
+
+00:05:21.360 --> 00:05:23.029 align:start position:0%
+ 
+you<00:05:21.520><c> should</c><00:05:21.680><c> be</c><00:05:21.919><c> attempting</c><00:05:22.400><c> to</c><00:05:22.560><c> use</c><00:05:22.880><c> your</c>
+
+00:05:23.029 --> 00:05:23.039 align:start position:0%
+you should be attempting to use your
+ 
+
+00:05:23.039 --> 00:05:24.790 align:start position:0%
+you should be attempting to use your
+avenging<00:05:23.600><c> wrath</c><00:05:24.160><c> trinket</c>
+
+00:05:24.790 --> 00:05:24.800 align:start position:0%
+avenging wrath trinket
+ 
+
+00:05:24.800 --> 00:05:27.350 align:start position:0%
+avenging wrath trinket
+and<00:05:24.960><c> dps</c><00:05:25.520><c> potions</c><00:05:26.080><c> right</c><00:05:26.320><c> before</c><00:05:26.639><c> your</c><00:05:26.880><c> attack</c>
+
+00:05:27.350 --> 00:05:27.360 align:start position:0%
+and dps potions right before your attack
+ 
+
+00:05:27.360 --> 00:05:28.230 align:start position:0%
+and dps potions right before your attack
+lands
+
+00:05:28.230 --> 00:05:28.240 align:start position:0%
+lands
+ 
+
+00:05:28.240 --> 00:05:29.990 align:start position:0%
+lands
+this<00:05:28.479><c> is</c><00:05:28.560><c> to</c><00:05:28.800><c> ensure</c><00:05:29.199><c> that</c><00:05:29.360><c> you</c><00:05:29.520><c> don't</c><00:05:29.759><c> have</c>
+
+00:05:29.990 --> 00:05:30.000 align:start position:0%
+this is to ensure that you don't have
+ 
+
+00:05:30.000 --> 00:05:31.909 align:start position:0%
+this is to ensure that you don't have
+any<00:05:30.160><c> downtime</c><00:05:30.800><c> of</c><00:05:31.039><c> buffs</c>
+
+00:05:31.909 --> 00:05:31.919 align:start position:0%
+any downtime of buffs
+ 
+
+00:05:31.919 --> 00:05:33.590 align:start position:0%
+any downtime of buffs
+it<00:05:32.080><c> is</c><00:05:32.320><c> also</c><00:05:32.639><c> important</c><00:05:32.960><c> to</c><00:05:33.120><c> note</c><00:05:33.360><c> that</c>
+
+00:05:33.590 --> 00:05:33.600 align:start position:0%
+it is also important to note that
+ 
+
+00:05:33.600 --> 00:05:35.590 align:start position:0%
+it is also important to note that
+waiting<00:05:33.919><c> for</c><00:05:34.080><c> the</c><00:05:34.160><c> effects</c><00:05:34.560><c> of</c><00:05:34.639><c> bloodlust</c>
+
+00:05:35.590 --> 00:05:35.600 align:start position:0%
+waiting for the effects of bloodlust
+ 
+
+00:05:35.600 --> 00:05:37.990 align:start position:0%
+waiting for the effects of bloodlust
+heroism<00:05:36.320><c> and</c><00:05:36.560><c> vengeance</c><00:05:37.360><c> will</c><00:05:37.520><c> give</c><00:05:37.759><c> you</c><00:05:37.919><c> a</c>
+
+00:05:37.990 --> 00:05:38.000 align:start position:0%
+heroism and vengeance will give you a
+ 
+
+00:05:38.000 --> 00:05:39.430 align:start position:0%
+heroism and vengeance will give you a
+damage<00:05:38.479><c> increase</c>
+
+00:05:39.430 --> 00:05:39.440 align:start position:0%
+damage increase
+ 
+
+00:05:39.440 --> 00:05:41.270 align:start position:0%
+damage increase
+it<00:05:39.680><c> is</c><00:05:39.840><c> also</c><00:05:40.160><c> recommended</c><00:05:40.720><c> that</c><00:05:40.880><c> if</c><00:05:40.960><c> you</c><00:05:41.120><c> can</c>
+
+00:05:41.270 --> 00:05:41.280 align:start position:0%
+it is also recommended that if you can
+ 
+
+00:05:41.280 --> 00:05:43.270 align:start position:0%
+it is also recommended that if you can
+time<00:05:41.600><c> your</c><00:05:41.759><c> dps</c><00:05:42.240><c> cooldown</c><00:05:42.720><c> to</c><00:05:42.880><c> be</c><00:05:43.039><c> right</c>
+
+00:05:43.270 --> 00:05:43.280 align:start position:0%
+time your dps cooldown to be right
+ 
+
+00:05:43.280 --> 00:05:44.629 align:start position:0%
+time your dps cooldown to be right
+before<00:05:43.680><c> you</c><00:05:43.840><c> twist</c>
+
+00:05:44.629 --> 00:05:44.639 align:start position:0%
+before you twist
+ 
+
+00:05:44.639 --> 00:05:46.950 align:start position:0%
+before you twist
+you<00:05:44.800><c> will</c><00:05:44.960><c> see</c><00:05:45.280><c> less</c><00:05:45.600><c> down</c><00:05:45.919><c> time</c><00:05:46.479><c> and</c><00:05:46.639><c> more</c>
+
+00:05:46.950 --> 00:05:46.960 align:start position:0%
+you will see less down time and more
+ 
+
+00:05:46.960 --> 00:05:50.469 align:start position:0%
+you will see less down time and more
+twists<00:05:47.440><c> with</c><00:05:47.600><c> the</c><00:05:47.759><c> buff</c>
+
+00:05:50.469 --> 00:05:50.479 align:start position:0%
+ 
+ 
+
+00:05:50.479 --> 00:05:52.150 align:start position:0%
+ 
+thanks<00:05:50.720><c> for</c><00:05:50.880><c> watching</c><00:05:51.199><c> everyone</c><00:05:51.840><c> and</c><00:05:52.000><c> as</c>
+
+00:05:52.150 --> 00:05:52.160 align:start position:0%
+thanks for watching everyone and as
+ 
+
+00:05:52.160 --> 00:05:53.990 align:start position:0%
+thanks for watching everyone and as
+always<00:05:52.639><c> if</c><00:05:52.720><c> you</c><00:05:52.880><c> like</c><00:05:53.120><c> this</c><00:05:53.360><c> content</c>
+
+00:05:53.990 --> 00:05:54.000 align:start position:0%
+always if you like this content
+ 
+
+00:05:54.000 --> 00:05:56.070 align:start position:0%
+always if you like this content
+please<00:05:54.400><c> like</c><00:05:54.639><c> and</c><00:05:54.720><c> subscribe</c><00:05:55.680><c> i</c><00:05:55.840><c> will</c><00:05:56.000><c> be</c>
+
+00:05:56.070 --> 00:05:56.080 align:start position:0%
+please like and subscribe i will be
+ 
+
+00:05:56.080 --> 00:05:57.749 align:start position:0%
+please like and subscribe i will be
+coming<00:05:56.400><c> out</c><00:05:56.479><c> with</c><00:05:56.639><c> more</c><00:05:56.960><c> videos</c><00:05:57.360><c> in</c><00:05:57.440><c> the</c><00:05:57.520><c> next</c>
+
+00:05:57.749 --> 00:05:57.759 align:start position:0%
+coming out with more videos in the next
+ 
+
+00:05:57.759 --> 00:05:59.029 align:start position:0%
+coming out with more videos in the next
+couple<00:05:58.080><c> of</c><00:05:58.240><c> days</c>
+
+00:05:59.029 --> 00:05:59.039 align:start position:0%
+couple of days
+ 
+
+00:05:59.039 --> 00:06:00.950 align:start position:0%
+couple of days
+if<00:05:59.199><c> you</c><00:05:59.360><c> are</c><00:05:59.440><c> looking</c><00:05:59.680><c> for</c><00:05:59.840><c> a</c><00:06:00.000><c> written</c><00:06:00.319><c> tbc</c>
+
+00:06:00.950 --> 00:06:00.960 align:start position:0%
+if you are looking for a written tbc
+ 
+
+00:06:00.960 --> 00:06:03.510 align:start position:0%
+if you are looking for a written tbc
+rhett<00:06:01.199><c> guide</c><00:06:01.759><c> i</c><00:06:01.919><c> have</c><00:06:02.160><c> one</c><00:06:02.400><c> in</c><00:06:02.560><c> my</c><00:06:02.720><c> about</c><00:06:03.120><c> me</c><00:06:03.360><c> on</c>
+
+00:06:03.510 --> 00:06:03.520 align:start position:0%
+rhett guide i have one in my about me on
+ 
+
+00:06:03.520 --> 00:06:04.390 align:start position:0%
+rhett guide i have one in my about me on
+my<00:06:03.680><c> youtube</c>
+
+00:06:04.390 --> 00:06:04.400 align:start position:0%
+my youtube
+ 
+
+00:06:04.400 --> 00:06:07.110 align:start position:0%
+my youtube
+and<00:06:04.639><c> on</c><00:06:04.720><c> my</c><00:06:04.960><c> twitch</c><00:06:05.280><c> channel</c><00:06:06.160><c> also</c><00:06:06.720><c> if</c><00:06:06.880><c> you</c><00:06:07.039><c> are</c>
+
+00:06:07.110 --> 00:06:07.120 align:start position:0%
+and on my twitch channel also if you are
+ 
+
+00:06:07.120 --> 00:06:08.710 align:start position:0%
+and on my twitch channel also if you are
+looking<00:06:07.360><c> to</c><00:06:07.520><c> talk</c><00:06:07.840><c> to</c><00:06:08.000><c> more</c><00:06:08.240><c> rats</c>
+
+00:06:08.710 --> 00:06:08.720 align:start position:0%
+looking to talk to more rats
+ 
+
+00:06:08.720 --> 00:06:11.309 align:start position:0%
+looking to talk to more rats
+and<00:06:08.800><c> discuss</c><00:06:09.280><c> tbc</c><00:06:10.080><c> swing</c><00:06:10.400><c> by</c><00:06:10.560><c> the</c><00:06:10.639><c> light</c><00:06:10.880><c> club</c>
+
+00:06:11.309 --> 00:06:11.319 align:start position:0%
+and discuss tbc swing by the light club
+ 
+
+00:06:11.319 --> 00:06:14.319 align:start position:0%
+and discuss tbc swing by the light club
+discord
+

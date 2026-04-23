@@ -1,0 +1,13 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Ry2odc1Uxqc
+[youtube] Ry2odc1Uxqc: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Ry2odc1Uxqc: Downloading android vr player API JSON
+[info] Ry2odc1Uxqc: Downloading subtitles: en
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+[info] Ry2odc1Uxqc: Downloading 1 format(s): 18
+[info] Writing video subtitles to: sources/youtube-transcripts/Ry2odc1Uxqc.en.vtt
+[download] Destination: sources/youtube-transcripts/Ry2odc1Uxqc.en.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    2.29KiB at  Unknown B/s (00:00:00)[download] 100% of    2.29KiB in 00:00:00 at 9.60KiB/s
+[SubtitlesConvertor] Converting subtitles
+ERROR: Preprocessing: ffmpeg not found. Please install or provide the path using --ffmpeg-location
+ERROR: Preprocessing: ffmpeg not found. Please install or provide the path using --ffmpeg-location

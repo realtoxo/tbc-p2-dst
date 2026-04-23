@@ -1,0 +1,1192 @@
+{
+  "fury_warrior_p1": {
+    "spec": "fury_warrior",
+    "phase": "p1",
+    "url": "https://www.wowhead.com/tbc/guide/fury-warrior-dps-karazhan-best-in-slot-gear-burning-crusade-classic-wow",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 29021
+      },
+      {
+        "slot": "shoulder",
+        "id": 30740
+      },
+      {
+        "slot": "back",
+        "id": 30729
+      },
+      {
+        "slot": "chest",
+        "id": 30730
+      },
+      {
+        "slot": "wrist",
+        "id": 28795
+      },
+      {
+        "slot": "hands",
+        "id": 28824
+      },
+      {
+        "slot": "waist",
+        "id": 28779
+      },
+      {
+        "slot": "legs",
+        "id": 30739
+      },
+      {
+        "slot": "feet",
+        "id": 28608
+      },
+      {
+        "slot": "neck",
+        "id": 29349
+      },
+      {
+        "slot": "ring1",
+        "id": 30738
+      },
+      {
+        "slot": "ring2",
+        "id": 28757
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 21670
+      },
+      {
+        "slot": "main_hand",
+        "id": 28438
+      },
+      {
+        "slot": "off_hand",
+        "id": 28295
+      },
+      {
+        "slot": "ranged",
+        "id": 30724
+      }
+    ]
+  },
+  "fury_warrior_p2": {
+    "spec": "fury_warrior",
+    "phase": "p2",
+    "url": "https://www.wowhead.com/tbc/guide/classes/warrior/fury/dps-bis-gear-pve-phase-2",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 30120
+      },
+      {
+        "slot": "shoulder",
+        "id": 30122
+      },
+      {
+        "slot": "back",
+        "id": 30729
+      },
+      {
+        "slot": "chest",
+        "id": 30118
+      },
+      {
+        "slot": "wrist",
+        "id": 30057
+      },
+      {
+        "slot": "hands",
+        "id": 30119
+      },
+      {
+        "slot": "waist",
+        "id": 30106
+      },
+      {
+        "slot": "legs",
+        "id": 29995
+      },
+      {
+        "slot": "feet",
+        "id": 30081
+      },
+      {
+        "slot": "neck",
+        "id": 30022
+      },
+      {
+        "slot": "ring1",
+        "id": 29997
+      },
+      {
+        "slot": "ring2",
+        "id": 30738
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 21670
+      },
+      {
+        "slot": "main_hand",
+        "id": 28439
+      },
+      {
+        "slot": "off_hand",
+        "id": 30082
+      },
+      {
+        "slot": "ranged",
+        "id": 30105
+      }
+    ]
+  },
+  "arms_warrior_p1": {
+    "spec": "arms_warrior",
+    "phase": "p1",
+    "url": "https://www.wowhead.com/tbc/guide/arms-warrior-dps-karazhan-best-in-slot-gear-burning-crusade-classic-wow",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 29021
+      },
+      {
+        "slot": "shoulder",
+        "id": 30740
+      },
+      {
+        "slot": "back",
+        "id": 30729
+      },
+      {
+        "slot": "chest",
+        "id": 30730
+      },
+      {
+        "slot": "wrist",
+        "id": 28795
+      },
+      {
+        "slot": "hands",
+        "id": 28824
+      },
+      {
+        "slot": "waist",
+        "id": 28779
+      },
+      {
+        "slot": "legs",
+        "id": 30739
+      },
+      {
+        "slot": "feet",
+        "id": 28608
+      },
+      {
+        "slot": "neck",
+        "id": 29349
+      },
+      {
+        "slot": "ring1",
+        "id": 30738
+      },
+      {
+        "slot": "ring2",
+        "id": 30834
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 21670
+      },
+      {
+        "slot": "two_hand",
+        "id": 28429
+      },
+      {
+        "slot": "ranged",
+        "id": 30724
+      }
+    ]
+  },
+  "arms_warrior_p2": {
+    "spec": "arms_warrior",
+    "phase": "p2",
+    "url": "https://www.wowhead.com/tbc/guide/classes/warrior/arms/dps-bis-gear-pve-phase-2",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 30120
+      },
+      {
+        "slot": "shoulder",
+        "id": 30055
+      },
+      {
+        "slot": "back",
+        "id": 30729
+      },
+      {
+        "slot": "chest",
+        "id": 30118
+      },
+      {
+        "slot": "wrist",
+        "id": 30057
+      },
+      {
+        "slot": "hands",
+        "id": 29947
+      },
+      {
+        "slot": "waist",
+        "id": 30106
+      },
+      {
+        "slot": "legs",
+        "id": 29995
+      },
+      {
+        "slot": "feet",
+        "id": 30081
+      },
+      {
+        "slot": "neck",
+        "id": 30022
+      },
+      {
+        "slot": "ring1",
+        "id": 29997
+      },
+      {
+        "slot": "ring2",
+        "id": 30738
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 21670
+      },
+      {
+        "slot": "two_hand",
+        "id": 29993
+      },
+      {
+        "slot": "ranged",
+        "id": 30105
+      }
+    ]
+  },
+  "rogue_p1": {
+    "spec": "rogue",
+    "phase": "p1",
+    "url": "https://www.wowhead.com/tbc/guide/rogue-dps-karazhan-best-in-slot-gear-burning-crusade-classic-wow",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 29044
+      },
+      {
+        "slot": "shoulder",
+        "id": 27797
+      },
+      {
+        "slot": "back",
+        "id": 28672
+      },
+      {
+        "slot": "chest",
+        "id": 29045
+      },
+      {
+        "slot": "wrist",
+        "id": 29246
+      },
+      {
+        "slot": "hands",
+        "id": 27531
+      },
+      {
+        "slot": "waist",
+        "id": 29247
+      },
+      {
+        "slot": "legs",
+        "id": 28741
+      },
+      {
+        "slot": "feet",
+        "id": 28545
+      },
+      {
+        "slot": "neck",
+        "id": 29381
+      },
+      {
+        "slot": "ring1",
+        "id": 28757
+      },
+      {
+        "slot": "ring2",
+        "id": 28649
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 23206
+      },
+      {
+        "slot": "main_hand",
+        "id": 28438,
+        "note": "Wowhead Main-Hand section: first BiS row."
+      },
+      {
+        "slot": "off_hand",
+        "id": 28307
+      },
+      {
+        "slot": "ranged",
+        "id": 29151
+      }
+    ]
+  },
+  "rogue_p2": {
+    "spec": "rogue",
+    "phase": "p2",
+    "url": "https://www.wowhead.com/tbc/guide/classes/rogue/dps-bis-gear-pve-phase-2",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 30146
+      },
+      {
+        "slot": "shoulder",
+        "id": 30149
+      },
+      {
+        "slot": "back",
+        "id": 28672
+      },
+      {
+        "slot": "chest",
+        "id": 30101
+      },
+      {
+        "slot": "wrist",
+        "id": 29966
+      },
+      {
+        "slot": "hands",
+        "id": 30145
+      },
+      {
+        "slot": "waist",
+        "id": 30106
+      },
+      {
+        "slot": "legs",
+        "id": 30148
+      },
+      {
+        "slot": "feet",
+        "id": 28545
+      },
+      {
+        "slot": "neck",
+        "id": 29381
+      },
+      {
+        "slot": "ring1",
+        "id": 30052
+      },
+      {
+        "slot": "ring2",
+        "id": 29997
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 30450
+      },
+      {
+        "slot": "main_hand",
+        "id": 30082,
+        "note": "Wowhead Main-Hand section: first BiS row."
+      },
+      {
+        "slot": "off_hand",
+        "id": 32027
+      },
+      {
+        "slot": "ranged",
+        "id": 29949
+      }
+    ]
+  },
+  "bm_hunter_p1": {
+    "spec": "bm_hunter",
+    "phase": "p1",
+    "url": "https://www.wowhead.com/tbc/guide/beast-mastery-hunter-dps-karazhan-best-in-slot-gear-burning-crusade-classic-wow",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 28275
+      },
+      {
+        "slot": "shoulder",
+        "id": 27801
+      },
+      {
+        "slot": "back",
+        "id": 24259
+      },
+      {
+        "slot": "chest",
+        "id": 28228
+      },
+      {
+        "slot": "wrist",
+        "id": 29246
+      },
+      {
+        "slot": "hands",
+        "id": 27474
+      },
+      {
+        "slot": "waist",
+        "id": 28828
+      },
+      {
+        "slot": "legs",
+        "id": 30739
+      },
+      {
+        "slot": "feet",
+        "id": 28545
+      },
+      {
+        "slot": "neck",
+        "id": 29381
+      },
+      {
+        "slot": "ring1",
+        "id": 28791
+      },
+      {
+        "slot": "ring2",
+        "id": 28757
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 29383
+      },
+      {
+        "slot": "main_hand",
+        "id": 27846
+      },
+      {
+        "slot": "off_hand",
+        "id": 28572
+      },
+      {
+        "slot": "ranged",
+        "id": 28772
+      }
+    ]
+  },
+  "bm_hunter_p2": {
+    "spec": "bm_hunter",
+    "phase": "p2",
+    "url": "https://www.wowhead.com/tbc/guide/classes/hunter/beast-mastery/dps-bis-gear-pve-phase-2",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 30141
+      },
+      {
+        "slot": "shoulder",
+        "id": 30143
+      },
+      {
+        "slot": "back",
+        "id": 29994
+      },
+      {
+        "slot": "chest",
+        "id": 30139
+      },
+      {
+        "slot": "wrist",
+        "id": 29966
+      },
+      {
+        "slot": "hands",
+        "id": 30140
+      },
+      {
+        "slot": "waist",
+        "id": 30040
+      },
+      {
+        "slot": "legs",
+        "id": 29995
+      },
+      {
+        "slot": "feet",
+        "id": 30104
+      },
+      {
+        "slot": "neck",
+        "id": 30017
+      },
+      {
+        "slot": "ring1",
+        "id": 28791
+      },
+      {
+        "slot": "ring2",
+        "id": 29997
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 29383
+      },
+      {
+        "slot": "main_hand",
+        "id": 32944
+      },
+      {
+        "slot": "ranged",
+        "id": 30105
+      },
+      {
+        "slot": "off_hand",
+        "id": 29948,
+        "note": "Wowhead P2 Main-Hand section lists Best MH and Best OH in one table."
+      }
+    ]
+  },
+  "survival_hunter_p1": {
+    "spec": "survival_hunter",
+    "phase": "p1",
+    "url": "https://www.wowhead.com/tbc/guide/survival-hunter-dps-karazhan-best-in-slot-gear-burning-crusade-classic-wow",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 28275
+      },
+      {
+        "slot": "shoulder",
+        "id": 27801
+      },
+      {
+        "slot": "back",
+        "id": 28672
+      },
+      {
+        "slot": "chest",
+        "id": 28228
+      },
+      {
+        "slot": "wrist",
+        "id": 29246,
+        "note": "Sim fallback: Wowhead-listed next Best non-random alternative to Ravager's Bands of Agility."
+      },
+      {
+        "slot": "hands",
+        "id": 27474
+      },
+      {
+        "slot": "waist",
+        "id": 28750,
+        "note": "Sim fallback: Wowhead-listed next Best non-random alternative to Lurker's Belt of Agility."
+      },
+      {
+        "slot": "legs",
+        "id": 30739
+      },
+      {
+        "slot": "feet",
+        "id": 28545,
+        "note": "Sim fallback: Wowhead-listed next Best non-random alternative to Glider's Sabatons of Agility."
+      },
+      {
+        "slot": "neck",
+        "id": 28343
+      },
+      {
+        "slot": "ring1",
+        "id": 28791
+      },
+      {
+        "slot": "ring2",
+        "id": 31277
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 29383
+      },
+      {
+        "slot": "main_hand",
+        "id": 28263,
+        "note": "Wowhead P1 Weapons section: first Best MH row."
+      },
+      {
+        "slot": "off_hand",
+        "id": 28572,
+        "note": "Wowhead P1 Weapons section: first Best OH row."
+      },
+      {
+        "slot": "ranged",
+        "id": 28772,
+        "note": "Wowhead P1 Weapons section: first ranged Best row."
+      }
+    ]
+  },
+  "survival_hunter_p2": {
+    "spec": "survival_hunter",
+    "phase": "p2",
+    "url": "https://www.wowhead.com/tbc/guide/classes/hunter/survival/dps-bis-gear-pve-phase-2",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 30141
+      },
+      {
+        "slot": "shoulder",
+        "id": 30143
+      },
+      {
+        "slot": "back",
+        "id": 29994
+      },
+      {
+        "slot": "chest",
+        "id": 30139
+      },
+      {
+        "slot": "wrist",
+        "id": 29966
+      },
+      {
+        "slot": "hands",
+        "id": 28506
+      },
+      {
+        "slot": "waist",
+        "id": 30040
+      },
+      {
+        "slot": "legs",
+        "id": 30142
+      },
+      {
+        "slot": "feet",
+        "id": 30104
+      },
+      {
+        "slot": "neck",
+        "id": 30017
+      },
+      {
+        "slot": "ring1",
+        "id": 28791
+      },
+      {
+        "slot": "ring2",
+        "id": 29298
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 29383
+      },
+      {
+        "slot": "main_hand",
+        "id": 29924
+      },
+      {
+        "slot": "off_hand",
+        "id": 29948,
+        "note": "Wowhead P2 Melee Weapons section: Best OH - Personal DPS row."
+      },
+      {
+        "slot": "ranged",
+        "id": 30105
+      }
+    ]
+  },
+  "feral_cat_p1": {
+    "spec": "feral_cat",
+    "phase": "p1",
+    "url": "https://www.wowhead.com/tbc/guide/feral-druid-dps-karazhan-best-in-slot-gear-burning-crusade-classic-wow",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 8345
+      },
+      {
+        "slot": "shoulder",
+        "id": 29100
+      },
+      {
+        "slot": "back",
+        "id": 28672
+      },
+      {
+        "slot": "chest",
+        "id": 29096
+      },
+      {
+        "slot": "wrist",
+        "id": 29246
+      },
+      {
+        "slot": "hands",
+        "id": 28506
+      },
+      {
+        "slot": "waist",
+        "id": 29247
+      },
+      {
+        "slot": "legs",
+        "id": 28741
+      },
+      {
+        "slot": "feet",
+        "id": 28545
+      },
+      {
+        "slot": "neck",
+        "id": 24114
+      },
+      {
+        "slot": "ring1",
+        "id": 30834
+      },
+      {
+        "slot": "ring2",
+        "id": 28649
+      },
+      {
+        "slot": "trinket1",
+        "id": 23206
+      },
+      {
+        "slot": "trinket2",
+        "id": 28830
+      },
+      {
+        "slot": "two_hand",
+        "id": 28658
+      },
+      {
+        "slot": "ranged",
+        "id": 29390
+      }
+    ]
+  },
+  "feral_cat_p2": {
+    "spec": "feral_cat",
+    "phase": "p2",
+    "url": "https://www.wowhead.com/tbc/guide/classes/druid/feral/dps-bis-gear-pve-phase-2",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 8345
+      },
+      {
+        "slot": "shoulder",
+        "id": 30055
+      },
+      {
+        "slot": "back",
+        "id": 28672
+      },
+      {
+        "slot": "chest",
+        "id": 30101
+      },
+      {
+        "slot": "wrist",
+        "id": 29966
+      },
+      {
+        "slot": "hands",
+        "id": 29947
+      },
+      {
+        "slot": "waist",
+        "id": 30106
+      },
+      {
+        "slot": "legs",
+        "id": 28741
+      },
+      {
+        "slot": "feet",
+        "id": 28545
+      },
+      {
+        "slot": "neck",
+        "id": 24114
+      },
+      {
+        "slot": "ring1",
+        "id": 30052
+      },
+      {
+        "slot": "ring2",
+        "id": 29997
+      },
+      {
+        "slot": "trinket1",
+        "id": 30627
+      },
+      {
+        "slot": "trinket2",
+        "id": 23206
+      },
+      {
+        "slot": "two_hand",
+        "id": 32014
+      },
+      {
+        "slot": "ranged",
+        "id": 29390
+      }
+    ]
+  },
+  "enhancement_shaman_p1": {
+    "spec": "enhancement_shaman",
+    "phase": "p1",
+    "url": "https://www.wowhead.com/tbc/guide/enhancement-shaman-dps-karazhan-best-in-slot-gear-burning-crusade-classic-wow",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 29040
+      },
+      {
+        "slot": "shoulder",
+        "id": 29043
+      },
+      {
+        "slot": "back",
+        "id": 24259
+      },
+      {
+        "slot": "chest",
+        "id": 30730
+      },
+      {
+        "slot": "wrist",
+        "id": 29517
+      },
+      {
+        "slot": "hands",
+        "id": 28776
+      },
+      {
+        "slot": "waist",
+        "id": 29516
+      },
+      {
+        "slot": "legs",
+        "id": 28741
+      },
+      {
+        "slot": "feet",
+        "id": 28545
+      },
+      {
+        "slot": "neck",
+        "id": 29381
+      },
+      {
+        "slot": "ring1",
+        "id": 30834
+      },
+      {
+        "slot": "ring2",
+        "id": 28757
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 29383
+      },
+      {
+        "slot": "main_hand",
+        "id": 28313,
+        "note": "Wowhead P1 Weapons section: first Best MH row."
+      },
+      {
+        "slot": "off_hand",
+        "id": 28308,
+        "note": "Wowhead P1 Weapons section: first Best non-MH 2.6 speed row."
+      },
+      {
+        "slot": "ranged",
+        "id": 27815
+      }
+    ]
+  },
+  "enhancement_shaman_p2": {
+    "spec": "enhancement_shaman",
+    "phase": "p2",
+    "url": "https://www.wowhead.com/tbc/guide/classes/shaman/enhancement/dps-bis-gear-pve-phase-2",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 30190
+      },
+      {
+        "slot": "shoulder",
+        "id": 30055
+      },
+      {
+        "slot": "back",
+        "id": 24259
+      },
+      {
+        "slot": "chest",
+        "id": 30185
+      },
+      {
+        "slot": "wrist",
+        "id": 30091
+      },
+      {
+        "slot": "hands",
+        "id": 30189
+      },
+      {
+        "slot": "waist",
+        "id": 30106
+      },
+      {
+        "slot": "legs",
+        "id": 30192
+      },
+      {
+        "slot": "feet",
+        "id": 30039
+      },
+      {
+        "slot": "neck",
+        "id": 30017
+      },
+      {
+        "slot": "ring1",
+        "id": 29997
+      },
+      {
+        "slot": "ring2",
+        "id": 30052
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 29383
+      },
+      {
+        "slot": "main_hand",
+        "id": 29996,
+        "note": "Wowhead P2 Weapons section: first 2.7 MH/OH row."
+      },
+      {
+        "slot": "off_hand",
+        "id": 29924,
+        "note": "Wowhead P2 Weapons section: next legal one-hand 2.6 speed row; Talon of the Phoenix is main-hand only in WoWSims."
+      },
+      {
+        "slot": "ranged",
+        "id": 27815
+      }
+    ]
+  },
+  "ret_paladin_p1": {
+    "spec": "ret_paladin",
+    "phase": "p1",
+    "url": "https://www.wowhead.com/tbc/guide/retribution-paladin-dps-karazhan-best-in-slot-gear-burning-crusade-classic-wow",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 29073
+      },
+      {
+        "slot": "shoulder",
+        "id": 30740
+      },
+      {
+        "slot": "back",
+        "id": 24259
+      },
+      {
+        "slot": "chest",
+        "id": 28484
+      },
+      {
+        "slot": "wrist",
+        "id": 28795
+      },
+      {
+        "slot": "hands",
+        "id": 30644
+      },
+      {
+        "slot": "waist",
+        "id": 28779
+      },
+      {
+        "slot": "legs",
+        "id": 30257
+      },
+      {
+        "slot": "feet",
+        "id": 28608
+      },
+      {
+        "slot": "neck",
+        "id": 29381
+      },
+      {
+        "slot": "ring1",
+        "id": 30834
+      },
+      {
+        "slot": "ring2",
+        "id": 28757
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 19343
+      },
+      {
+        "slot": "two_hand",
+        "id": 28429
+      },
+      {
+        "slot": "ranged",
+        "id": 27484
+      }
+    ]
+  },
+  "ret_paladin_p2": {
+    "spec": "ret_paladin",
+    "phase": "p2",
+    "url": "https://www.wowhead.com/tbc/guide/classes/paladin/retribution/dps-bis-gear-pve-phase-2",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 32461
+      },
+      {
+        "slot": "shoulder",
+        "id": 30055
+      },
+      {
+        "slot": "back",
+        "id": 30098
+      },
+      {
+        "slot": "chest",
+        "id": 30129
+      },
+      {
+        "slot": "wrist",
+        "id": 30057
+      },
+      {
+        "slot": "hands",
+        "id": 29947
+      },
+      {
+        "slot": "waist",
+        "id": 30106
+      },
+      {
+        "slot": "legs",
+        "id": 29950
+      },
+      {
+        "slot": "feet",
+        "id": 30081
+      },
+      {
+        "slot": "neck",
+        "id": 30022
+      },
+      {
+        "slot": "ring1",
+        "id": 30834
+      },
+      {
+        "slot": "ring2",
+        "id": 29997
+      },
+      {
+        "slot": "trinket1",
+        "id": 29383
+      },
+      {
+        "slot": "trinket2",
+        "id": 28830
+      },
+      {
+        "slot": "two_hand",
+        "id": 28430
+      },
+      {
+        "slot": "ranged",
+        "id": 27484
+      }
+    ]
+  }
+}
